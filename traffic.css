@@ -1,0 +1,24 @@
+div{
+    height:200px;
+    width:100px;
+    background-color:black;
+    text-align:center;
+}
+
+#inner1{
+    background-color: red;
+    border-radius:50%;
+    height:40px;
+}
+
+#inner2{
+    background-color: yellow;
+    border-radius:50%;
+    height:40px;
+}
+
+#inner3{
+    background-color: green;
+    border-radius:50%;
+    height:40px;
+}
